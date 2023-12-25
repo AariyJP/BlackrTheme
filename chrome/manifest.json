@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "version": "1",
+  "version": "1.0.0.1",
   "name": "Black × Red Material Theme",
   "theme": {
     "images": {},
